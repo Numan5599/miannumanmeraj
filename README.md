@@ -1,2 +1,3 @@
 # miannumanmeraj
 this is my fisrt git repositiry
+author - miangee
